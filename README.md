@@ -1,0 +1,2 @@
+# lottory-project
+console application 
